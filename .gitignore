@@ -1,0 +1,20 @@
+.classpath
+.project
+.metadata
+.settings
+.recommenders
+.idea
+.metadata
+*.iml
+/bin
+build/
+target/
+out/
+Autobot_Module/bin
+FRC_Robot/bin
+MyRobot7/build
+Git Status.bat
+Git Add.bat
+*.bat
+dist/
+TeamScouting/
